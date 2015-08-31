@@ -1,2 +1,4 @@
 # lheo-owl
-OWL LHEO ontology
+OWL version of the LHEO ontology
+
+For more informations : http://lheo.org/
